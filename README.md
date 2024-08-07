@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Arte do Descanso: Como o Sono e a Alimentação Transformam Nossas Vidas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 6 páginas fala sobre a importáncia de uma boa alimentação e um sono reparador para a saude.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- Ferramenta **Microsoft Word** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com o auxílio do "chatGPT" reformulei as minhas ideias e rascunhos e dei corpo ao meu texto, com o "Leonardo AI" dei vida as imagens que para mim representavam e que se encaixariam no e-book, e por fim, usei o "Microsoft Word" para editar e montar o livro. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.

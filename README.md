@@ -34,6 +34,9 @@ Este e-book de 6 páginas fala sobre a importáncia de uma boa alimentação e u
 Com o auxílio do "chatGPT" reformulei as minhas ideias e rascunhos e dei corpo ao meu texto, com o "Leonardo AI" dei vida as imagens que para mim representavam e que se encaixariam no e-book, e por fim, usei o "Microsoft Word" para editar e montar o livro. 
 
 ## 🚀 Resultados
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+
+[LINK PARA O E-BOOK AQUI](/meu_ebook/'A Arte do Descanso.pdf')
 
 
 ## 💭 Reflexão (Opcional)
